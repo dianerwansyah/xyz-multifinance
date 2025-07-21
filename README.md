@@ -34,6 +34,7 @@ cd xyz-multifinance
 ```
 
 ### 2. Setup .env
+```bash
 APP_NAME=xyz-mulfinance
 APP_PORT=8080
 
@@ -45,6 +46,7 @@ DB_NAME=xyz_db
 
 JWT_SECRET=1234
 MAX_UPLOAD_SIZE_MB=5
+```
 
 ### 3. Setup Database
 Jalankan file SQL berikut ke dalam MySQL:
